@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Recursive Introspection]]></title>
+  <link href="http://simon.belluzzo.id.au/blog/atom.xml" rel="self"/>
+  <link href="http://simon.belluzzo.id.au/blog/"/>
+  <updated>2013-10-06T12:13:39+11:00</updated>
+  <id>http://simon.belluzzo.id.au/blog/</id>
+  <author>
+    <name><![CDATA[Simon Belluzzo]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://simon.belluzzo.id.au/blog/sitemap.xml 
